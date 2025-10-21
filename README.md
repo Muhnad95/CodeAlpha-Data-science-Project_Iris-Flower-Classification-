@@ -21,8 +21,9 @@ The goal is to classify Iris flowers into three species (*setosa, versicolor, vi
 - Confusion matrix, feature distributions visualization included
 
 ## 🚀 How to Run
-  -run the code and include the csv file to the correct path in
-  this part of the code
+  -you can run the python code locally and include the csv file
+  or using the data set url to the  correct path in this part of the code :
+  -at line 11:
 # 1. Load dataset df = pd.read_csv("Downloads/Iris.csv")
 
 Data science internship project 
