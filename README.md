@@ -1,7 +1,6 @@
-# 🌸 CodeAlpha Internship Task 1: Iris Flower Classification
+# 🌸 1: Iris Flower Classification
 
-## 📌 Overview
-This project is part of the CodeAlpha Data Science Internship.  
+## 📌 Overview 
 The goal is to classify Iris flowers into three species (*setosa, versicolor, virginica*) using machine learning.
 
 ## 📂 Dataset
